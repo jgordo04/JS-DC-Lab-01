@@ -1,0 +1,588 @@
+prompt: Player 1: prompt: Player 2: Let's play War!!
+============ Round 1 ============
+j drew: eight of diamonds
+s drew: seven of clubs
+j wins this round!!!
+j now has 27 cards
+s now has 25 cards
+============ Round 2 ============
+j drew: six of hearts
+s drew: queen of hearts
+s wins this round!!!
+j now has 26 cards
+s now has 26 cards
+============ Round 3 ============
+j drew: nine of clubs
+s drew: jack of hearts
+s wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 4 ============
+j drew: nine of diamonds
+s drew: eight of clubs
+j wins this round!!!
+j now has 26 cards
+s now has 26 cards
+============ Round 5 ============
+j drew: queen of diamonds
+s drew: ace of clubs
+j wins this round!!!
+j now has 27 cards
+s now has 25 cards
+============ Round 6 ============
+j drew: ten of clubs
+s drew: five of hearts
+j wins this round!!!
+j now has 28 cards
+s now has 24 cards
+============ Round 7 ============
+j drew: five of diamonds
+s drew: jack of spades
+s wins this round!!!
+j now has 27 cards
+s now has 25 cards
+============ Round 8 ============
+j drew: six of spades
+s drew: four of clubs
+j wins this round!!!
+j now has 28 cards
+s now has 24 cards
+============ Round 9 ============
+j drew: two of diamonds
+s drew: seven of hearts
+s wins this round!!!
+j now has 27 cards
+s now has 25 cards
+============ Round 10 ============
+j drew: five of clubs
+s drew: four of spades
+j wins this round!!!
+j now has 28 cards
+s now has 24 cards
+============ Round 11 ============
+j drew: jack of clubs
+s drew: four of diamonds
+j wins this round!!!
+j now has 29 cards
+s now has 23 cards
+============ Round 12 ============
+j drew: ace of hearts
+s drew: six of diamonds
+s wins this round!!!
+j now has 28 cards
+s now has 24 cards
+============ Round 13 ============
+j drew: nine of spades
+s drew: ace of diamonds
+j wins this round!!!
+j now has 29 cards
+s now has 23 cards
+============ Round 14 ============
+j drew: six of clubs
+s drew: two of spades
+j wins this round!!!
+j now has 30 cards
+s now has 22 cards
+============ Round 15 ============
+j drew: jack of diamonds
+s drew: three of clubs
+j wins this round!!!
+j now has 31 cards
+s now has 21 cards
+============ Round 16 ============
+j drew: three of hearts
+s drew: three of diamonds
+WAR!!!!!!!!!!!
+============ Round 17 ============
+j drew: ten of spades
+s drew: queen of spades
+s wins this round!!!
+j now has 29 cards
+s now has 23 cards
+============ Round 18 ============
+j drew: king of hearts
+s drew: seven of spades
+j wins this round!!!
+j now has 30 cards
+s now has 22 cards
+============ Round 19 ============
+j drew: king of diamonds
+s drew: seven of diamonds
+j wins this round!!!
+j now has 31 cards
+s now has 21 cards
+============ Round 20 ============
+j drew: five of spades
+s drew: three of spades
+j wins this round!!!
+j now has 32 cards
+s now has 20 cards
+============ Round 21 ============
+j drew: nine of hearts
+s drew: ten of diamonds
+s wins this round!!!
+j now has 31 cards
+s now has 21 cards
+============ Round 22 ============
+j drew: two of hearts
+s drew: queen of clubs
+s wins this round!!!
+j now has 30 cards
+s now has 22 cards
+============ Round 23 ============
+j drew: ten of hearts
+s drew: king of clubs
+s wins this round!!!
+j now has 29 cards
+s now has 23 cards
+============ Round 24 ============
+j drew: king of spades
+s drew: eight of spades
+j wins this round!!!
+j now has 30 cards
+s now has 22 cards
+============ Round 25 ============
+j drew: four of hearts
+s drew: eight of hearts
+s wins this round!!!
+j now has 29 cards
+s now has 23 cards
+============ Round 26 ============
+j drew: ace of spades
+s drew: two of clubs
+s wins this round!!!
+j now has 28 cards
+s now has 24 cards
+============ Round 27 ============
+j drew: seven of clubs
+s drew: queen of hearts
+s wins this round!!!
+j now has 27 cards
+s now has 25 cards
+============ Round 28 ============
+j drew: eight of diamonds
+s drew: six of hearts
+j wins this round!!!
+j now has 28 cards
+s now has 24 cards
+============ Round 29 ============
+j drew: eight of clubs
+s drew: jack of hearts
+s wins this round!!!
+j now has 27 cards
+s now has 25 cards
+============ Round 30 ============
+j drew: nine of diamonds
+s drew: nine of clubs
+WAR!!!!!!!!!!!
+============ Round 31 ============
+j drew: ace of clubs
+s drew: jack of spades
+s wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 32 ============
+j drew: queen of diamonds
+s drew: five of diamonds
+j wins this round!!!
+j now has 26 cards
+s now has 26 cards
+============ Round 33 ============
+j drew: five of hearts
+s drew: seven of hearts
+s wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 34 ============
+j drew: ten of clubs
+s drew: two of diamonds
+j wins this round!!!
+j now has 26 cards
+s now has 26 cards
+============ Round 35 ============
+j drew: four of clubs
+s drew: six of diamonds
+s wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 36 ============
+j drew: six of spades
+s drew: ace of hearts
+j wins this round!!!
+j now has 26 cards
+s now has 26 cards
+============ Round 37 ============
+j drew: four of spades
+s drew: queen of spades
+s wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 38 ============
+j drew: five of clubs
+s drew: ten of spades
+s wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 39 ============
+j drew: four of diamonds
+s drew: three of diamonds
+j wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 40 ============
+j drew: jack of clubs
+s drew: three of hearts
+j wins this round!!!
+j now has 26 cards
+s now has 26 cards
+============ Round 41 ============
+j drew: ace of diamonds
+s drew: ten of diamonds
+s wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 42 ============
+j drew: nine of spades
+s drew: nine of hearts
+WAR!!!!!!!!!!!
+============ Round 43 ============
+j drew: two of spades
+s drew: queen of clubs
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 44 ============
+j drew: six of clubs
+s drew: two of hearts
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 45 ============
+j drew: three of clubs
+s drew: king of clubs
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 46 ============
+j drew: jack of diamonds
+s drew: ten of hearts
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 47 ============
+j drew: seven of spades
+s drew: eight of hearts
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 48 ============
+j drew: king of hearts
+s drew: four of hearts
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 49 ============
+j drew: seven of diamonds
+s drew: two of clubs
+j wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 50 ============
+j drew: king of diamonds
+s drew: ace of spades
+j wins this round!!!
+j now has 26 cards
+s now has 26 cards
+============ Round 51 ============
+j drew: three of spades
+s drew: queen of hearts
+s wins this round!!!
+j now has 25 cards
+s now has 27 cards
+============ Round 52 ============
+j drew: five of spades
+s drew: seven of clubs
+s wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 53 ============
+j drew: eight of spades
+s drew: jack of hearts
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 54 ============
+j drew: king of spades
+s drew: eight of clubs
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 55 ============
+j drew: six of hearts
+s drew: jack of spades
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 56 ============
+j drew: eight of diamonds
+s drew: ace of clubs
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 57 ============
+j drew: five of diamonds
+s drew: nine of clubs
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 58 ============
+j drew: queen of diamonds
+s drew: nine of diamonds
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 59 ============
+j drew: two of diamonds
+s drew: seven of hearts
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 60 ============
+j drew: ten of clubs
+s drew: five of hearts
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 61 ============
+j drew: ace of hearts
+s drew: six of diamonds
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 62 ============
+j drew: six of spades
+s drew: four of clubs
+j wins this round!!!
+j now has 24 cards
+s now has 28 cards
+============ Round 63 ============
+j drew: three of diamonds
+s drew: queen of spades
+s wins this round!!!
+j now has 23 cards
+s now has 29 cards
+============ Round 64 ============
+j drew: four of diamonds
+s drew: four of spades
+WAR!!!!!!!!!!!
+============ Round 65 ============
+j drew: three of hearts
+s drew: ten of spades
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 66 ============
+j drew: jack of clubs
+s drew: five of clubs
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 67 ============
+j drew: two of hearts
+s drew: ten of diamonds
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 68 ============
+j drew: six of clubs
+s drew: ace of diamonds
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 69 ============
+j drew: ten of hearts
+s drew: queen of clubs
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 70 ============
+j drew: jack of diamonds
+s drew: two of spades
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 71 ============
+j drew: four of hearts
+s drew: nine of hearts
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 72 ============
+j drew: king of hearts
+s drew: nine of spades
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 73 ============
+j drew: two of clubs
+s drew: king of clubs
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 74 ============
+j drew: seven of diamonds
+s drew: three of clubs
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 75 ============
+j drew: ace of spades
+s drew: eight of hearts
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 76 ============
+j drew: king of diamonds
+s drew: seven of spades
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 77 ============
+j drew: eight of clubs
+s drew: queen of hearts
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 78 ============
+j drew: king of spades
+s drew: three of spades
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 79 ============
+j drew: ace of clubs
+s drew: seven of clubs
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 80 ============
+j drew: eight of diamonds
+s drew: five of spades
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 81 ============
+j drew: nine of diamonds
+s drew: jack of hearts
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 82 ============
+j drew: queen of diamonds
+s drew: eight of spades
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 83 ============
+j drew: five of hearts
+s drew: jack of spades
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 84 ============
+j drew: ten of clubs
+s drew: six of hearts
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 85 ============
+j drew: four of clubs
+s drew: nine of clubs
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 86 ============
+j drew: six of spades
+s drew: five of diamonds
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 87 ============
+j drew: five of clubs
+s drew: seven of hearts
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 88 ============
+j drew: jack of clubs
+s drew: two of diamonds
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 89 ============
+j drew: ace of diamonds
+s drew: six of diamonds
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 90 ============
+j drew: six of clubs
+s drew: ace of hearts
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 91 ============
+j drew: two of spades
+s drew: queen of spades
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 92 ============
+j drew: jack of diamonds
+s drew: three of diamonds
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 93 ============
+j drew: nine of spades
+s drew: ten of spades
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 94 ============
+j drew: king of hearts
+s drew: three of hearts
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 95 ============
+j drew: three of clubs
+s drew: four of spades
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 96 ============
+j drew: seven of diamonds
+s drew: four of diamonds
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 97 ============
+j drew: seven of spades
+s drew: ten of diamonds
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+============ Round 98 ============
+j drew: king of diamonds
+s drew: two of hearts
+j wins this round!!!
+j now has 22 cards
+s now has 30 cards
+============ Round 99 ============
+j drew: three of spades
+s drew: queen of clubs
+s wins this round!!!
+j now has 21 cards
+s now has 31 cards
+It's a tie. :-/

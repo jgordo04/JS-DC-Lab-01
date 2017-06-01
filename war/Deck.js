@@ -20,7 +20,7 @@ class Deck {
 	dealCards(num){
 		let dealtCards = []
 		for ( let i = 0; i < num; i++ ){
-			dealtCards.push(this.cards.splice(Math.floor(Math.random()*this.cards.length),1))
+			dealtCards.push(this.cards.splice(Math.floor(Math.random()*this.cards.length),1)[0])
 		}
 		return dealtCards
 	}

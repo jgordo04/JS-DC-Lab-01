@@ -31,31 +31,41 @@ Prompt.get(['Player 1','Player 2'], function(err,result){
 	let playerOne = new Player(playerOneName,fullDeck.dealCards(handSize))
 	let playerTwo = new Player(playerTwoName,fullDeck.dealCards(handSize))
 
+	// for ( let i = 0; i < playerOne.hand.length; i++){
+	// 	for ( let j = 0; j < playerTwo.hand.length; j++){
+	// 		if ( playerOne.hand[i] === playerTwo.hand[j] ){
+	// 			console.log("DUPLICATE!!!!!")
+	// 		}
+	// 	}
+	// }
+
 	console.log(chalk.bold.blue("Let's play War!!"))
 
 	let cardStack = []
 	let round = 1
-	let cont = true
-	while ( playerOne.hand.length > 17  && playerTwo.hand.length > 17 ){
+	while ( playerOne.hand.length > 0  && playerTwo.hand.length > 0 && round < 1000){
 		console.log("============ Round " + round + " ============")
 		let playerOneCard = playerOne.discard()
 		let playerTwoCard = playerTwo.discard()
+		//let playerOneCard = playerOneTemp[0]
+		//let playerTwoCard = playerTwoTemp[0]
 		cardStack.push(playerOneCard)
 		cardStack.push(playerTwoCard)
-		console.log(playerOne.username + " drew: " + playerOneCard[0].title)
-		console.log(playerTwo.username + " drew: " + playerTwoCard[0].title)
-		if ( playerOneCard[0].score > playerTwoCard[0].score ){
+		//console.log(playerOneTemp)
+		console.log(playerOne.username + " drew: " + playerOneCard.title)
+		console.log(playerTwo.username + " drew: " + playerTwoCard.title)
+		if ( playerOneCard.score > playerTwoCard.score ){
 			console.log(chalk.underline.green(playerOne.username + " wins this round!!!"))
 			while (cardStack.length !== 0){ 
-				playerOne.addCards(cardStack.pop()) 
+				playerOne.addCards(cardStack.splice(Math.floor(Math.random()*cardStack.length),1)[0])
 			}
 			console.log(playerOne.username + " now has " + playerOne.hand.length + " cards")
 			console.log(playerTwo.username + " now has " + playerTwo.hand.length + " cards")
 		}
-		else if ( playerOneCard[0].score < playerTwoCard[0].score ){
+		else if ( playerOneCard.score < playerTwoCard.score ){
 			console.log(chalk.underline.yellow(playerTwo.username + " wins this round!!!"))
 			while (cardStack.length !== 0){ 
-				playerTwo.addCards(cardStack.pop()) 
+				playerTwo.addCards(cardStack.splice(Math.floor(Math.random()*cardStack.length),1)[0])
 			}
 			console.log(playerOne.username + " now has " + playerOne.hand.length + " cards")
 			console.log(playerTwo.username + " now has " + playerTwo.hand.length + " cards")
@@ -63,18 +73,21 @@ Prompt.get(['Player 1','Player 2'], function(err,result){
 		else{
 			console.log(chalk.bold.red("WAR!!!!!!!!!!!"))
 		}
-		if ( playerOne.hand.length === 0 || playerTwo.hand.length === 0 ){
-			cont = false
+		if ( playerOne.hand.length > 0 && playerTwo.hand.length > 0 ){
+
 		}
-		console.log(cont)
 		round++	
 	}
 
 	if ( playerOne.hand.length !== 0  && playerTwo.hand.length === 0 ){
-		console.log(playerOne.username + " wins the game!!")
+		console.log(chalk.bold.green("##############################"))
+		console.log(chalk.bold.green("##### " + playerOne.username + " wins the game!! ######"))
+		console.log(chalk.bold.green("##############################"))
 	}
 	else if ( playerTwo.hand.length !== 0  && playerOne.hand.length === 0){
-		console.log(playerTwo.username + " wins the game!!")
+		console.log(chalk.bold.yellow("##############################"))
+		console.log(chalk.bold.yellow("##### " + playerTwo.username + " wins the game!! ######"))
+		console.log(chalk.bold.yellow("##############################"))
 	}
 	else {
 		console.log("It's a tie. :-/")
