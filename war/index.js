@@ -80,14 +80,24 @@ Prompt.get(['Player 1','Player 2'], function(err,result){
 	}
 
 	if ( playerOne.hand.length !== 0  && playerTwo.hand.length === 0 ){
-		console.log(chalk.bold.green("##############################"))
-		console.log(chalk.bold.green("##### " + playerOne.username + " wins the game!! ######"))
-		console.log(chalk.bold.green("##############################"))
+		let winString = "##### " + playerOne.username + " wins the game!! #####"
+		let frameLine = ''
+		for ( let i = 0; i < winString.length; i++){
+			frameLine += '#'
+		}
+		console.log(chalk.bold.green(frameLine))
+		console.log(chalk.bold.green(winString))
+		console.log(chalk.bold.green(frameLine))
 	}
 	else if ( playerTwo.hand.length !== 0  && playerOne.hand.length === 0){
-		console.log(chalk.bold.yellow("##############################"))
-		console.log(chalk.bold.yellow("##### " + playerTwo.username + " wins the game!! ######"))
-		console.log(chalk.bold.yellow("##############################"))
+		let winString = "##### " + playerTwo.username + " wins the game!! #####"
+		let frameLine = ''
+		for ( let i = 0; i < winString.length; i++){
+			frameLine += '#'
+		}
+		console.log(chalk.bold.yellow(frameLine))
+		console.log(chalk.bold.yellow(winString))
+		console.log(chalk.bold.yellow(frameLine))
 	}
 	else {
 		console.log("It's a tie. :-/")
