@@ -43,7 +43,7 @@ Prompt.get(['Player 1','Player 2'], function(err,result){
 
 	let cardStack = []
 	let round = 1
-	while ( playerOne.hand.length > 0  && playerTwo.hand.length > 0 && round < 1000){
+	while ( playerOne.hand.length > 0  && playerTwo.hand.length > 0 && round < 10000){
 		console.log("============ Round " + round + " ============")
 		let playerOneCard = playerOne.discard()
 		let playerTwoCard = playerTwo.discard()
